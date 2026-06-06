@@ -54,10 +54,10 @@ What I learned building this:
  
 ## 🔨 Currently building
  
-- Getting more serious about ML — working on EDA-heavy projects, feature engineering, and building end-to-end classification/regression pipelines
+- Getting more serious about ML — working on EDA-heavy projects, Data Engineering,AI Engineering
 - Cleaning up my notebooks and pushing them to GitHub as proper documented projects (not just messy `.ipynb` files)
-- Exploring NLP basics — text preprocessing, vectorization, simple classifiers
-- Improving the Smart Search app — better search accuracy, receipt data extraction
+- Exploring NLP basics — text preprocessing, vectorization, simple classifiers / LLMs
+- Improving the Eidectci - Smart Search app — better search accuracy, fast syncing of photos
 ---
  
  
