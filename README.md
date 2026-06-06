@@ -36,7 +36,7 @@ I'm actively looking for **internships or entry-level roles in ML, data science,
  
 ## 🗂 Projects
  
-### 📸 Smart Photo Search App
+### Eidectic - Smart Photo Search App
 An AI-powered photo search system — sync your photos, search them in plain English.
  
 You ask things like *"find my bus ticket from last month"* and it actually finds it. Uses Google Gemini to auto-describe every photo when synced, stores everything in Supabase, and searches using AI matching instead of dumb keywords.
