@@ -1,79 +1,8 @@
 
-Claude finished the response
-this is my github link - https://github.com/kotramaniteja2004
-rebuild my github profile using all the required aspects neded .iam a student at nit andhrapradesh with little experience in data exploring skills,ml,flutter and i want to attract to ml,data related jobs.
-with a clan,professional bio under 150 characters .then create a readme that clearly higlights who iam ,what  can do,my projects,what im currenty building ,and the best way to reach e.keep it natural and authentci - not formal or robotic
-
-11:29
-
-Examined repositories to gather profile enhancement details
-Examined repositories to gather profile enhancement details
-Let me also check your repositories for more details.
-
-
-Architected professional GitHub profile with bio, README, and project highlights
-Architected professional GitHub profile with bio, README, and project highlights
-Good — I can see everything. You have a Python FastAPI + Gemini AI + Supabase smart photo search backend, and a Flutter frontend. That's actually a solid project to showcase. Let me build the full profile package now.
-
-
-Architected comprehensive GitHub profile with badges, stats, and strategic sections
-Architected comprehensive GitHub profile with badges, stats, and strategic sections
-Now I have everything I need. Let me build both the bio and the full README.
-
-
-Created a file, read a file
-Created a file, read a file
-Here's everything you need — the full rebuild 👇
-
-✏️ Profile Bio (copy this into your GitHub bio field)
-CS @ NIT AP · exploring ML & data · building with Python + Flutter · looking for data/ML internships 🚀
-
-That's 95 characters — clean, honest, hits the right keywords for recruiters.
-
-📄 README.md — what's in it
-The file above is your kotramaniteja2004/kotramaniteja2004 repo README (GitHub auto-displays this on your profile). Here's a quick rundown of what I wrote and why:
-
-About me section — talks about who you are without sounding like a CV. Mentions NIT AP, that you built something real (the search app), and that you're looking for internships. Honest and direct.
-
-Skills with badges — visually grouped into Data/ML, Backend, and Tools. Badges render as colorful pills on GitHub and make your profile scannable for recruiters in 3 seconds.
-
-Smart Photo Search project — I actually read your code and wrote a proper description of what it does and what you learned building it. The "what I learned" list matters — it shows self-awareness, not just tech names.
-
-Currently building — signals you're active and learning, not just parked.
-
-GitHub Stats cards — auto-updates with your activity. Uses tokyo night theme to look sharp.
-
-Contact section — two things to update: your actual email and your LinkedIn URL.
-
-🚀 How to set this up
-Create a new repo at github.com/new — name it exactly kotramaniteja2004 (same as your username)
-Make it Public, check "Add a README file"
-Paste the contents of the downloaded file into that README
-Update your email and LinkedIn link
-Go to your profile Settings → Edit profile and paste the bio text above
-That's it — takes 5 minutes and your profile will look significantly more intentional than most students'.
-
-
-Readme
-Document · MD 
-
-
-
-
-
-Claude is AI and can make mistakes. Please double-check responses.
-
-
-raw
-Readme · MD
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Maniteja+%F0%9F%91%8B;CS+student+%40+NIT+Andhra+Pradesh;Exploring+ML+%26+Data+Science;Building+things+that+actually+work" alt="Typing SVG" />
-</div>
----
  
 ## About me
  
-I'm a CS undergrad at **NIT Andhra Pradesh** who got genuinely curious about how data and models work — and kind of never stopped digging.
+I'm a MME undergrad at **NIT Andhra Pradesh** who got genuinely curious about how data and models work — and kind of never stopped digging.
  
 Right now I'm somewhere between "learning the fundamentals" and "shipping real things" — I've built a full-stack AI-powered image search app from scratch (Python backend + Flutter frontend + Gemini AI), which taught me more than any course did.
  
