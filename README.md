@@ -48,7 +48,7 @@ What I learned building this:
 - Working with LLM APIs (Gemini) for multimodal tasks
 - Handling concurrent requests + async workflows in Python
 - Building a full Flutter mobile client that talks to a real backend
-> 🔗 [Backend →](https://github.com/kotramaniteja2004/smart-search-backend) &nbsp;|&nbsp; [Site →](https://github.com/kotramaniteja2004/kmtsite)
+> 🔗 [Backend →](https://github.com/kotramaniteja2004/smart-search-backend) 
  
 ---
  
