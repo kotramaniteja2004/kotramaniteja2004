@@ -60,14 +60,6 @@ What I learned building this:
 - Improving the Smart Search app — better search accuracy, receipt data extraction
 ---
  
-## 📊 GitHub Stats
- 
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kotramaniteja2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotramaniteja2004&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
----
  
 ## 📬 Let's talk
  
