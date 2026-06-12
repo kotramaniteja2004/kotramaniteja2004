@@ -66,7 +66,7 @@ What I learned building this:
 If you're building something with data or ML, or you have an internship/project opportunity — reach out. I respond.
  
 - 📧 **Email:** kotramaniteja2004@gmail.com 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/mani-teja-kotra-3650a22a2/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/manitejakotra/
 - 🐙 **GitHub:** You're already here
 ---
  
